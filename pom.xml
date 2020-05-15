@@ -16,8 +16,6 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<next.release.version>0.0.1</next.release.version>
-		<next.development.version>0.0.2-SNAPSHOT</next.development.version>
 	</properties>
 
 	<scm>
